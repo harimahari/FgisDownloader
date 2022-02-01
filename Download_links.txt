@@ -1,5 +1,5 @@
 Download link of console version for Linux and Windows:
-https://cutt.ly/FgisDownloader_v2_Linux_Win
+https://cutt.ly/FgisDownloader_v2-1_Linux_Win
 
 Download link of GUI version for Linux, Windows and MacOS:
 https://cutt.ly/FgisExplorer_v1-0-6_Linux_Win_MacOS
