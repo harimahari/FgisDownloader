@@ -1,8 +1,8 @@
-# FgisDownloader v2.0
+# FgisDownloader v2.1 (TLS problem is fixed)
 Программа для скачивания выписок из Росреестра в формате ZIP с ЭЦП (одним GET запросом)
 
 Ссылка на скачивание `консольной версии` (Linux и Windows): 
-https://cutt.ly/FgisDownloader_v2_Linux_Win
+https://cutt.ly/FgisDownloader_v2-1_Linux_Win
 
 Ссылка на скачивание `графической версии` (Linux, Windows и MacOS):
 https://cutt.ly/FgisExplorer_v1-0-6_Linux_Win_MacOS
